@@ -172,7 +172,8 @@ Just like `colspan`, `span` takes a value that specifies the number of columns y
 ```
 
 ### Output
+<!-- <img src="./OutputTable.svg" alt="table output"/> -->
+<img width="287" alt="OutputTable" src="https://github.com/supminn/tech-article/assets/30731236/b6f536ce-50da-4438-a496-1622c4a6634a">
 
-<img src="./OutputTable.svg" alt="table output"/>
 
 You've got it now! Creating HTML tables is now a snap for you. Happy coding!
