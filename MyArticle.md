@@ -174,5 +174,6 @@ Just like `colspan`, `span` takes a value that specifies the number of columns y
 ### Output
 
 <img src="./OutputTable.png" alt="table output"/>
+![Output image of table](./OutputTable.png)
 
 You've got it now! Creating HTML tables is now a snap for you. Happy coding!
